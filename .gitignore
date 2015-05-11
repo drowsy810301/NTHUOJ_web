@@ -1,5 +1,14 @@
-# Config files
-nthuoj.ini
+# User upload files
+media/
+
+# Configs
+config/
+
+# Bower
+components/
+
+# Migrations
+migrations/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -55,3 +64,4 @@ docs/_build/
 
 # PyBuilder
 target/
+
